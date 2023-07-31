@@ -1,0 +1,31 @@
+.header2{
+    margin: 0;
+    padding: 12px;
+    align-items: center;
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: rgb(45, 47, 59);    
+
+}
+a > span{
+    letter-spacing: .2px;
+    margin-left: 1rem;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointerddxx;
+    color: rgb(164, 161, 161);
+}
+
+a > span:hover{
+    color: rgb(227, 149, 149);
+}
+
+.header2Right{
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-between;
+    gap: 1px;
+    margin-right: 1px;
+}
